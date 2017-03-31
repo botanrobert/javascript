@@ -1,6 +1,6 @@
 # Programe javascript
 
-## Programae telefoane mobile
+## Programe telefoane mobile
 
 ....
 
