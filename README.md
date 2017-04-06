@@ -8,4 +8,6 @@
 
 ## Programe smartwatch
 
-Robert Botan
+contact: Botan Robert
+botanrobert@gmail.com
+
